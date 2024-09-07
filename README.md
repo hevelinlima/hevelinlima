@@ -5,9 +5,12 @@
 </p>
 
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hevelinlima&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=006633&text_color=FFF&border_radius=3&border_color=006633&icon_color=006633)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hevelinlima&line_height=15&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=006633&hide=html,css&bg_color=000&text_color=FFFB&border_radius=3&border_color=006633&count_private=true)](https://github.com/hevelinlima/github-readme-stats)
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hevelinlima&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=000&title_color=006633&border_color=006633&text_color=FFF&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hevelinlima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&bg_color=000&title_color=006633&border_color=006633&text_color=FFF&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ### Tecnologias utilizadas:
 
@@ -29,5 +32,6 @@
   <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=black" />
 </div><br/>
 
+###
 
 
